@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on The Gastroenterology Data Sciences Institute</title>
+    <link>/publication/negex/</link>
+    <description>Recent content in Publications on The Gastroenterology Data Sciences Institute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/negex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EndoMineR for the extraction of endoscopic and associated pathology data from medical reports</title>
+      <link>/publication/negex/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/negex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
