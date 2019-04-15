@@ -1,29 +1,31 @@
 +++
-title = "How to extract data from data"
-subtitle = "An easy introduction to the use of R to determine new columns from datasets"
+title = "Open Source Data Projects"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2019-04-20T00:00:00
+lastmod = 2019-04-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
 tags = ["Academic"]
-summary = "An easy introduction to the use of R to determine new columns from datasets"
-
-# Optional external URL for project (replaces project detail page).
-external_link = "https://nhsrcommunity.com/blog/how-to-extrapolate-data-from-data/"
-
-
-# Set captions for image gallery.
-
+summary = "Institute for the development of reprodicible methodologies for the analysis of large dataset gastroenterology data"
 
 
 +++
 
 
+***There are many clinical questions to answer in gastroenterology using different datasets so software that facilitates this will come is several forms. The solutions for problems will often require collaborative efforts between several developers.***
 
+## Why open source?
+
+One aim of the Institute is to create a platform to encourage the collaboration of developers by open sourcing the software. That is to say allowing team building of non-commercial software solutions. The institute has developed a methodology for the development and validation of software for the analysis of datasets and a pipeline that leads to publication for those who have significantly contributed using the [rOpenSci](https://ropensci.org/) framework. We hope to incentivise clinical developers by facilitating and encouraging the publication of mature solutions.
+
+ 
+Open source solutions, in development and being developed, can be found on this publically available [gastro data science](https://github.com/sebastiz) project site. As always we would encourage contributions to these projects:
+
+
+A good example of such a project which was developed as part of the Institute’s programme and is now published, can be found [here](https://github.com/ropensci/EndoMineR)
 
 
 

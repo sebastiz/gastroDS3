@@ -10,45 +10,19 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Endoscopic therapy",
-    "Oesophageal/stomach cancers",
-    "Oesophageal physiology",
-    "Eosinophilic oesophagitis",
-    "Genomics of gatrointestinal cancers",
-    "Natural language programming",
-    "Machine learning",
-    "R"
+    "Open source solutions using gastroenterology data",
+    "Public engagement",
+    "Data Analytics Training",
+    "Data Set Linkage and Resources"
   ]
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-course = "PhD - Genomics of Barrett's related malignancy"
-institution = "University of London"
-year = 2013
-
-
-[[education.courses]]
-course = "Member of the Royal College of Physician"
-year = 2006
-  
-[[education.courses]]
-course = "MSc Health Informatics"
-institution = "City University"
-year = 2003
-
-[[education.courses]]
-  course = "MBBS MBChir Medicine"
-  institution = "University College London"
-  year = 2001
-
-[[education.courses]]
-  course = "MA in experimental psychology"
-  institution = "Cambridge University"
-  year = 1998
- 
 +++
 
-# Biography
+# About the Institute
 
-Dr. Sebastian Zeki is a consultant gastroenterologist at St Thomas' Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.
+The Gastroenterology Data Sciences Institute is a collaboration between health and data sciences across the UK. 
+
+It's role is to help the analysis of big data in gastroenterology to better understand the maintenance of high quality gastroenterological services across the UK 
+
+The institute has the following subsections to fulfill its overall mission:
 

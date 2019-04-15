@@ -13,7 +13,7 @@ publishDir = "docs"
 relativeURLs = true
 
 # Title of your site
-title = "Dr Sebastian Zeki - Academic profile"
+title = "The Gastroenterology Data Sciences Institute"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,15 +55,15 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Dr Sebastian Zeki MA MSc MRCP PhD"
-  role = "Consultant Gastroenterologist"
+  name = "The Gastroenterology Data Sciences Institute"
+  # role = "Consultant Gastroenterologist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Guy's and St Thomas' NHS Trust", url = "" } ]
+  # organizations = [ { name = "Guy's and St Thomas' NHS Trust", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "icon_CV_Website.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "GastroDSLogo2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "sebastianzeki@googlemail.com"
@@ -307,7 +307,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Aims"
   url = "#posts"
   weight = 3
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Dr Sebastian Zeki - Academic profile</title>
+    <title>Homes on The Gastroenterology Data Sciences Institute</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Dr Sebastian Zeki - Academic profile</description>
+    <description>Recent content in Homes on The Gastroenterology Data Sciences Institute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -27,7 +27,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Dr. Sebastian Zeki is a consultant gastroenterologist at St Thomas&amp;rsquo; Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.</description>
+      <description>About the Institute The Gastroenterology Data Sciences Institute is a collaboration between health and data sciences across the UK.
+It&amp;rsquo;s role is to help the analysis of big data in gastroenterology to better understand the maintenance of high quality gastroenterological services across the UK
+The institute has the following subsections to fulfill its overall mission:</description>
     </item>
     
     <item>
@@ -36,15 +38,6 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/home/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
@@ -67,11 +60,20 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
+      <title>Our mission</title>
       <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
@@ -90,9 +92,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>I teach in both data sciences and gastroenterology
- The Gastroenterology training book: A free online gatroenterology book comprising over 600 pages of one page topic summaries. Each page can create dynamically generated multiple choice questions so if you register (for free) you can do these and assess your knowledge and reading against all the other users
- Gastroenterology datascience: A free online tutorial to give you the basics of data sciences, exploratory analysis and data visualisation unsing R, the most commonly used data sciences language.</description>
+      <description>The following course provides a basic overview of the use of R and its application to gastroenterological problems. It includes a synthetic data set so the code can be tried straight away.
+ Gastroenterology datascience: A free online tutorial to give you the basics of data sciences, exploratory analysis and data visualisation unsing R, the most commonly used data sciences language. This is applied specifically to gastroenterological data but the principles can be applied to almost any data set  </description>
     </item>
     
     <item>

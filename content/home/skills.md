@@ -4,7 +4,7 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = true
+active = false
 
 title = "Skills"
 subtitle = ""
@@ -13,9 +13,9 @@ subtitle = ""
 weight = 7
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
@@ -26,42 +26,42 @@ weight = 7
   icon_pack = "fas"
   name = "Gastroenterology"
   description = "10%"
-  
+
 [[feature]]
   icon = "h-square custom"
   icon_pack = "fa"
   name = "Endoscopic therapy"
   description = "10%"
-  
+
 [[feature]]
   icon = "stethoscope custom"
   icon_pack = "fa"
   name = "Gastrointestinal cancer"
   description = "10%"
-  
+
 [[feature]]
   icon = "plus-square custom"
   icon_pack = "fa"
   name = "Eosinophilic oesophagitis"
   description = "10%"
-  
+
 [[feature]]
   icon = "stethoscope custom"
   icon_pack = "fa"
   name = "Oesophageal physiology"
   description = "10%"
-  
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "90%"
-  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Gastroenterology data science"
-  description = "100%"  
-  
+  description = "100%"
+
 
 +++

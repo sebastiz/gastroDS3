@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Dr Sebastian Zeki - Academic profile</title>
+    <title>Academic on The Gastroenterology Data Sciences Institute</title>
     <link>/tags/academic/</link>
-    <description>Recent content in Academic on Dr Sebastian Zeki - Academic profile</description>
+    <description>Recent content in Academic on The Gastroenterology Data Sciences Institute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Source Data Projects</title>
+      <link>/post/posts_details/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/posts_details/</guid>
+      <description>There are many clinical questions to answer in gastroenterology using different datasets so software that facilitates this will come is several forms. The solutions for problems will often require collaborative efforts between several developers.
+Why open source? One aim of the Institute is to create a platform to encourage the collaboration of developers by open sourcing the software. That is to say allowing team building of non-commercial software solutions. The institute has developed a methodology for the development and validation of software for the analysis of datasets and a pipeline that leads to publication for those who have significantly contributed using the rOpenSci framework.</description>
+    </item>
     
     <item>
       <title>Gastroenterology free online textbook</title>
@@ -18,15 +28,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tutorial/gastrobook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to extract data from data</title>
-      <link>/post/posts_details/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/posts_details/</guid>
       <description></description>
     </item>
     

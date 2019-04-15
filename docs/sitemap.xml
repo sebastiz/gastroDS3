@@ -4,32 +4,32 @@
     
     <url>
     
-      <loc>/publication/fieldcancerization/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <loc>/post/dataanalytics/</loc>
+      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/targetingcare/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <loc>/post/datasetlinkage/</loc>
+      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/stemcellorganisationandproliferative/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <loc>/post/posts_details/</loc>
+      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/molecularmarkers/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <loc>/post/publicengagement/</loc>
+      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -132,31 +132,7 @@
     
     <url>
     
-      <loc>/post/posts_details/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/rebus_biomarker_panel/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/orderingmuts/</loc>
-      <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/clonalpostrfa/</loc>
+      <loc>/publication/automatedadenomadetection/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -172,7 +148,7 @@
     
     <url>
     
-      <loc>/publication/eosinophilicdietary/</loc>
+      <loc>/publication/negex/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -180,16 +156,8 @@
     
     <url>
     
-      <loc>/publication/stemcellimpcolonicstemcell/</loc>
-      <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -198,7 +166,7 @@
     <url>
     
       <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,15 +191,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -242,7 +201,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -251,7 +210,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -275,7 +234,16 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
